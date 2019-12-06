@@ -17,3 +17,8 @@ wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=16v8
 wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1vjpHCcB68BL193zyyYPkI6QL-vWGtd_i' -O Umbrella.mp4
 wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1ILgpmWuh43Op-wKqqwGE1ZdzepgiPRPo' -O You.mp4
 wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1WSI_hFasLhEWTMtzT-cWfduJaOv39fRX' -O QuePena.mp4
+wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1p_PkKtEIinQNA1og-67RaPIoS81E_92_' -O Yesterday.mp4
+wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1YpIxy0YBsXUmrrdV8Uacm8IVUfiAYfyj' -O KnowBetter.mp4
+wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1Y1GcgmWL5YYLDkf5wqq2lxwnjmotUOQJ' -O Lover.mp4
+wget --no-check-certificate 'https://drive.google.com/uc?export=download&id=1EN_UkFm8IMGna6Hu08giyNv7Sf1LkIR1' -O Papercut.mp4
+
