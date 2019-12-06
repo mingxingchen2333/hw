@@ -7,6 +7,9 @@ run the script first.
    ```bash
    $ sh download.sh
    ```
+   
+2. Some NPM Scripts are needed for the project
+
 
 
 ## Available Scripts
