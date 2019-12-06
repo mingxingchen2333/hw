@@ -1,8 +1,36 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+1. We are providing a shell script for loading all the videos we need for the website, so before you start, please
+run the script first.
+
+   ```bash
+   $ sh download.sh
+   ```
+   
+2. Some NPM Scripts are needed for the project.
+
+   Install the dependencies in the local node_modules folder.
+      ```bash
+      $ npm install
+      ```
+      
+   A React component for playing a variety of URLs, including file paths, YouTube, Facebook, 
+   Twitch, SoundCloud, Streamable, Vimeo, Wistia, Mixcloud, and DailyMotion.
+      ```bash
+      $ npm install react-player --save
+      ```
+      
+   To add a React Router in a web app
+      ```bash
+      $ npm install react-router-dom
+      ```    
+     
+   
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
