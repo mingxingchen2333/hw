@@ -10,13 +10,23 @@ run the script first.
    
 2. Some NPM Scripts are needed for the project.
 
-Install the dependencies in the local node_modules folder.
-   ```bash
-   $ npm install
-   ```
-
-
-
+   Install the dependencies in the local node_modules folder.
+      ```bash
+      $ npm install
+      ```
+      
+   A React component for playing a variety of URLs, including file paths, YouTube, Facebook, 
+   Twitch, SoundCloud, Streamable, Vimeo, Wistia, Mixcloud, and DailyMotion.
+      ```bash
+      $ npm install react-player --save
+      ```
+      
+   To add a React Router in a web app
+      ```bash
+      $ npm install react-router-dom
+      ```    
+     
+   
 ## Available Scripts
 
 In the project directory, you can run:
