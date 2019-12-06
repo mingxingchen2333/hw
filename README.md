@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+###
+1. We are providing access to a Linode cloud instance (the Linode machine). You
+   can do work there by SSH or SSHFS. You'll need to access the cloud instance
+   to submit your benchmarks and see how you are doing relative to the rest of
+   the class. To access the machine by SSH:
+
+   ```bash
+   $ ssh B1234567890@96.126.110.231
+   ```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
