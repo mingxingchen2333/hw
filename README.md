@@ -1,13 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Setup
-1. We are providing access to a Linode cloud instance (the Linode machine). You
-   can do work there by SSH or SSHFS. You'll need to access the cloud instance
-   to submit your benchmarks and see how you are doing relative to the rest of
-   the class. To access the machine by SSH:
+1. We are providing a shell script for loading all the videos we need for the website, so before you start, please
+run the script first.
 
    ```bash
-   $ ssh B1234567890@96.126.110.231
+   $ sh download.sh
    ```
 
 
