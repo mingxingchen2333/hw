@@ -8,13 +8,19 @@ run the script first.
    $ sh download.sh
    ```
    
-2. Some NPM Scripts are needed for the project
+2. Some NPM Scripts are needed for the project.
+
+Install the dependencies in the local node_modules folder.
+   ```bash
+   $ npm install
+   ```
 
 
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
