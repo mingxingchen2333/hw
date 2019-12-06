@@ -4,8 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import { BrowserRouter } from "react-router-dom";
-import SortByArtist from "./components/SortByArtist";
-import Search from "./components/banner";
 
 ReactDOM.render(
     <BrowserRouter>
