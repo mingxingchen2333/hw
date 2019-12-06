@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was a website where people can search music videos. Compared to other websites, our website provides a unique way for users to find videos they want. User can find videos they want by cumtomize the filter.
+
+Users can easily understand the architecture of the website. All filters such as genres and artists are place on left, Since all videos can be filtered by genre and artist, users can search videos by genre(click one genre), by artist(click one artist), or by genre and artist(if you want to find a specific genre of an artist, click artist and click genre, if want to find artist in a specific genre, click genre and then click artist). Besides, the videos can be sorted either by song name or by artist name just by simply clicking the sort buttons on top left. When users have found videos they want, they can put mouse on the video to play it, this process may take few second since videos need time to be loaded. If Users want to back to original state of the website, just click the logo to get back.
 
 ## Setup
 1. We are providing a shell script for loading all the videos we need for the website, so before you start, please
