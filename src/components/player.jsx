@@ -18,7 +18,6 @@ import BadToYou from './videoDir/BadToYou.mp4';
 import Morning from './videoDir/Morning.mp4';
 import Lover from './videoDir/Lover.mp4';
 import Liar from './videoDir/Liar.mp4';
-import Younger from './videoDir/Younger.mp4';
 import Memories from './videoDir/Memories.mp4';
 import Quepena from './videoDir/QuePena.mp4';
 import Yesterday from './videoDir/Yesterday.mp4';
@@ -78,8 +77,6 @@ export default class Player extends Component {
                 return Lover;
             case "Liar":
                 return Liar;
-            case "Younger":
-                return Younger;
             case "Memories":
                 return Memories;
             case "Quepena":
